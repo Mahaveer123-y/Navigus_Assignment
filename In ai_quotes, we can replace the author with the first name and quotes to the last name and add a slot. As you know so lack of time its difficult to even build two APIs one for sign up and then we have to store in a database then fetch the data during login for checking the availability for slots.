@@ -1,2 +1,0 @@
-# Navigus_Assignment
-In ai_quotes, we can replace the author with the first name and quotes to the last name and add a slot. As you know so lack of time its difficult to even build two APIs one for sign up and then we have to store in a database then fetch the data during login for checking the availability for slots. 
